@@ -1,0 +1,1 @@
+MapReducer的基础入门代码，先了解Inputformat的切片，maptask和reducertask的输入和输出是什么和shuffle阶段做了什么，在了解天龙八步。
